@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Question03
 {
-    class ClassB
+   public class ClassB:BaseModel
     {
     }
 }

@@ -6,7 +6,15 @@ namespace Question03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+
+
+
+            Type type = typeof(BaseModel);
+
+           
+
+            
         }
     }
 }

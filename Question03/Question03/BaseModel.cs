@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Question03
 {
-    class BaseModel
+   public  abstract class BaseModel
     {
+
+
     }
 }
