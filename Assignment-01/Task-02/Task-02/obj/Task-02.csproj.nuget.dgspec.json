@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\Task-02\\Task-02\\Task-02.csproj": {}
+    "F:\\Exam\\Asp.net-Web-Development-code-\\Assignment-01\\Task-02\\Task-02\\Task-02.csproj": {}
   },
   "projects": {
-    "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\Task-02\\Task-02\\Task-02.csproj": {
+    "F:\\Exam\\Asp.net-Web-Development-code-\\Assignment-01\\Task-02\\Task-02\\Task-02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\Task-02\\Task-02\\Task-02.csproj",
+        "projectUniqueName": "F:\\Exam\\Asp.net-Web-Development-code-\\Assignment-01\\Task-02\\Task-02\\Task-02.csproj",
         "projectName": "Task-02",
-        "projectPath": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\Task-02\\Task-02\\Task-02.csproj",
+        "projectPath": "F:\\Exam\\Asp.net-Web-Development-code-\\Assignment-01\\Task-02\\Task-02\\Task-02.csproj",
         "packagesPath": "C:\\Users\\Md Sumon Mia\\.nuget\\packages\\",
-        "outputPath": "H:\\Asp.net code\\Asp.net-code-practise-with-devskill\\Task-02\\Task-02\\obj\\",
+        "outputPath": "F:\\Exam\\Asp.net-Web-Development-code-\\Assignment-01\\Task-02\\Task-02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Md Sumon Mia\\AppData\\Roaming\\NuGet\\NuGet.Config",

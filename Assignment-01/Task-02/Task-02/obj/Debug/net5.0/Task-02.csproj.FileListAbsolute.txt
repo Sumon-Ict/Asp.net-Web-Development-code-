@@ -14,3 +14,19 @@ H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\ne
 H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\ref\Task-02.dll
 H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.pdb
 H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.genruntimeconfig.cache
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\bin\Debug\net5.0\Task-02.exe
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\bin\Debug\net5.0\Task-02.deps.json
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\bin\Debug\net5.0\Task-02.runtimeconfig.json
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\bin\Debug\net5.0\Task-02.runtimeconfig.dev.json
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\bin\Debug\net5.0\Task-02.dll
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\bin\Debug\net5.0\ref\Task-02.dll
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\bin\Debug\net5.0\Task-02.pdb
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\Task-02.csprojAssemblyReference.cache
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\Task-02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\Task-02.AssemblyInfoInputs.cache
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\Task-02.AssemblyInfo.cs
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\Task-02.csproj.CoreCompileInputs.cache
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\Task-02.dll
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\ref\Task-02.dll
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\Task-02.pdb
+F:\Exam\Asp.net-Web-Development-code-\Assignment-01\Task-02\Task-02\obj\Debug\net5.0\Task-02.genruntimeconfig.cache

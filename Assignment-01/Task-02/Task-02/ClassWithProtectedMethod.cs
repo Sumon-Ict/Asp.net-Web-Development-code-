@@ -8,17 +8,14 @@ namespace Task_02
 {
   public   class ClassWithProtectedMethod
     {
-        protected void print(string value)
+        protected void print2(string value)
         {
             Console.WriteLine(value);
 
         }
 
-        protected int sum(int a,int b)
-        {
-            return a + b;
+       
 
-        }
 
     }
 }

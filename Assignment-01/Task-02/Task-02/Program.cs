@@ -8,20 +8,16 @@ namespace Task_02
         static void Main(string[] args)
         {
             ClassWithPrivateMethod target = new ClassWithPrivateMethod();
+            ClassWithProtectedMethod target2 = new ClassWithProtectedMethod();
 
             ReflectionUtility utility = new ReflectionUtility();
 
-            
 
-           // utility.print("sumon");
-            MethodInfo privMethod = utility.GetType().GetMethod("print", BindingFlags.NonPublic | BindingFlags.Instance);
-            privMethod.Invoke(utility, new object[] {"sumon" });
-
+             utility.callPrivate(target, "print", new object[] { "hello worlld" });
+            // utility.callPrivate(target, "sum", new object[] { 12, 78 });
+            utility.callProtected(target2, "print2", new object[] { "my name is sumon" });
 
 
-
-
-            // utility.callPrivate(target, "print", new object[] { "hello world" });
 
 
 

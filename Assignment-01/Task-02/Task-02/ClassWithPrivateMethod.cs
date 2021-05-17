@@ -15,10 +15,6 @@ namespace Task_02
 
         }
 
-        private int sum(int a,int b)
-        {
-            return a + b;
-
-        }
+      
     }
 }
