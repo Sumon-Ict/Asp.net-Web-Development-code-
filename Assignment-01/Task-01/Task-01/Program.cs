@@ -5,8 +5,12 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Serilog;
 using Serilog.Events;
+using Serilog.Sinks.MSSqlServer;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Configuration;
+using System.Data;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -24,12 +28,23 @@ namespace Task_01
                 .AddEnvironmentVariables()
                 .Build();
 
+            string connectionString = Configuration.GetConnectionString("SerilogExample");
+            
+            var columnOptions = new ColumnOptions
+            {
+                AdditionalColumns = new Collection<SqlColumn>
+               {
+                   new SqlColumn("UserName", SqlDbType.NVarChar)
+                 }
+            };
             Log.Logger = new LoggerConfiguration()
                 .MinimumLevel.Debug()
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
                 .Enrich.FromLogContext()
                 .ReadFrom.Configuration(configBuilder)
-                .CreateLogger();
+                .WriteTo.MSSqlServer(connectionString, sinkOptions: new MSSqlServerSinkOptions { TableName = "Log" }
+                , null, null, LogEventLevel.Information, null, columnOptions: columnOptions, null, null)
+                .CreateLogger();  
 
             try
             {
