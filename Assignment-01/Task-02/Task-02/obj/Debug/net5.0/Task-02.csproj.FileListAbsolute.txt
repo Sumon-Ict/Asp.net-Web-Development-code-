@@ -1,0 +1,16 @@
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\bin\Debug\net5.0\Task-02.exe
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\bin\Debug\net5.0\Task-02.deps.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\bin\Debug\net5.0\Task-02.runtimeconfig.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\bin\Debug\net5.0\Task-02.runtimeconfig.dev.json
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\bin\Debug\net5.0\Task-02.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\bin\Debug\net5.0\ref\Task-02.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\bin\Debug\net5.0\Task-02.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.csprojAssemblyReference.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.AssemblyInfoInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.AssemblyInfo.cs
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.csproj.CoreCompileInputs.cache
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\ref\Task-02.dll
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.pdb
+H:\Asp.net code\Asp.net-code-practise-with-devskill\Task-02\Task-02\obj\Debug\net5.0\Task-02.genruntimeconfig.cache
