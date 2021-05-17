@@ -15,10 +15,10 @@ namespace Task_02
         public object callPrivate(object targetobject, string methodname, object[] args)
         {
 
-            var mi = targetobject.GetType().GetMethod(methodname, System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-            if (mi != null)
+            var methodinfo = targetobject.GetType().GetMethod(methodname, System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+            if (methodinfo != null)
             {
-                return mi.Invoke(targetobject, args);
+                return methodinfo.Invoke(targetobject, args);
             }
             return null;
 
@@ -28,10 +28,10 @@ namespace Task_02
         }
         public object callProtected(object targetobject,string methodname, object[]  args)
         {
-            var mi = targetobject.GetType().GetMethod(methodname, System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-            if (mi != null)
+            var methodinfo = targetobject.GetType().GetMethod(methodname, System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+            if (methodinfo != null)
             {
-                return mi.Invoke(targetobject, args);
+                return methodinfo.Invoke(targetobject, args);
             }
             return null;
         }

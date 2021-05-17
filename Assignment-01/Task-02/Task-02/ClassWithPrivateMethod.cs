@@ -15,6 +15,17 @@ namespace Task_02
 
         }
 
-      
+      private void sum(int a,int b)
+        {
+            var result = a + b;
+
+            Console.WriteLine($"the sum of two integer value is {result}");
+
+        }
+
+        private int sub(int a,int b)
+        {
+            return a - b;
+        }
     }
 }

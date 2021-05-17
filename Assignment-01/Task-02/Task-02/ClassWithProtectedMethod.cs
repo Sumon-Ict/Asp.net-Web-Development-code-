@@ -14,8 +14,19 @@ namespace Task_02
 
         }
 
-       
+       protected void multiply(int a,int b)
+        {
+            var mul = a * b;
 
+            Console.WriteLine($"the multiplication of two integer value is {mul}");
+
+        }
+
+        protected int subtraction(int a,int b)
+        {
+            return a - b;
+        }
+            
 
     }
 }
