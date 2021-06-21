@@ -30,7 +30,7 @@ namespace Task_01
             orm.Insert(new Students() { StudentName = "Imran", Home = "dhaka" });
 
 
-            var getinfo = orm.GetById(7);
+            var getinfo = orm.GetById(2);
 
 
             Console.WriteLine(getinfo.Home);
