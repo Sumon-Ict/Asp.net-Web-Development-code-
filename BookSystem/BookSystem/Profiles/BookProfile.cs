@@ -1,11 +1,12 @@
 ﻿using AutoMapper;
+using BookSystem.Areas.Admin.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BO = BookSystem.Training.BusinessObjects;
-using EO = BookSystem.Training.Entities;
+
 
 namespace BookSystem.Training.Profiles
 {
@@ -13,7 +14,10 @@ namespace BookSystem.Training.Profiles
     {
         public BookProfile()
         {
-            CreateMap<BO.Book, EO.Book>().ReverseMap();
+            CreateMap<CreateBookModel, BO.Book>().ReverseMap();
+            CreateMap<EditBookModel, BO.Book>().ReverseMap();
+
+
 
         }
     }

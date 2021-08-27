@@ -13,3 +13,18 @@ C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5
 C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.dll
 C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\ref\BookSystem.Training.dll
 C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.pdb
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.deps.json
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\bin\Debug\net5.0\ref\BookSystem.Training.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.pdb
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Data.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Data.pdb
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csprojAssemblyReference.cache
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.AssemblyInfoInputs.cache
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.AssemblyInfo.cs
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csproj.CoreCompileInputs.cache
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csproj.CopyComplete
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\ref\BookSystem.Training.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.pdb

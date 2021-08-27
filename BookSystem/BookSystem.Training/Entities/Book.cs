@@ -14,6 +14,8 @@ namespace BookSystem.Training.Entities
         public string Barcode { get; set; }
 
         public double Price { get; set; }
+        public List<BookAuthor> Authors { get; set; }
+
 
     }
 }

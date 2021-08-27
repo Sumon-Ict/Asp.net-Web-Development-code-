@@ -31,6 +31,25 @@ namespace BookSystem.Training.Contexts
             base.OnConfiguring(dbContextOptionsBuilder);
 
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<BookAuthor>()
+                .HasKey(cs => new { cs.AuthorId, cs.BookId });
+
+            modelBuilder.Entity<BookAuthor>()
+                .HasOne(cs => cs.book)
+                .WithMany(c => c.Authors)
+                .HasForeignKey(cs => cs.BookId);
+
+            modelBuilder.Entity<BookAuthor>()
+                .HasOne(cs => cs.author)
+                .WithMany(s => s.WrittenBooks)
+                .HasForeignKey(cs => cs.AuthorId);
+
+            base.OnModelCreating(modelBuilder);
+        }
+
         public DbSet<Book> Books { get; set; }
         public DbSet<Author> Authors { get; set; }
 

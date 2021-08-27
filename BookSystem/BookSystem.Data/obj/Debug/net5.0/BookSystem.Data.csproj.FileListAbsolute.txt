@@ -10,3 +10,15 @@ C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\B
 C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.dll
 C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\ref\BookSystem.Data.dll
 C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.pdb
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.deps.json
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\bin\Debug\net5.0\ref\BookSystem.Data.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.pdb
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.csprojAssemblyReference.cache
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.AssemblyInfoInputs.cache
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.AssemblyInfo.cs
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.csproj.CoreCompileInputs.cache
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\obj\Debug\net5.0\ref\BookSystem.Data.dll
+F:\Exam\Asp.net-Web-Development-code-\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.pdb

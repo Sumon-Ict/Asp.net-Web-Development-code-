@@ -12,6 +12,7 @@ namespace BookSystem.Training.Entities
         public int Id { get; set; }
         public string Name { get; set; }
         public DateTime DateOfBirth { get; set; }
+        public List<BookAuthor> WrittenBooks { get; set; }
 
     }
 }

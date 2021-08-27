@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Md Sumon Mia\\source\\repos\\BookSystem\\BookSystem.Data\\BookSystem.Data.csproj": {}
+    "F:\\Exam\\Asp.net-Web-Development-code-\\BookSystem\\BookSystem.Data\\BookSystem.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Md Sumon Mia\\source\\repos\\BookSystem\\BookSystem.Data\\BookSystem.Data.csproj": {
+    "F:\\Exam\\Asp.net-Web-Development-code-\\BookSystem\\BookSystem.Data\\BookSystem.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Md Sumon Mia\\source\\repos\\BookSystem\\BookSystem.Data\\BookSystem.Data.csproj",
+        "projectUniqueName": "F:\\Exam\\Asp.net-Web-Development-code-\\BookSystem\\BookSystem.Data\\BookSystem.Data.csproj",
         "projectName": "BookSystem.Data",
-        "projectPath": "C:\\Users\\Md Sumon Mia\\source\\repos\\BookSystem\\BookSystem.Data\\BookSystem.Data.csproj",
+        "projectPath": "F:\\Exam\\Asp.net-Web-Development-code-\\BookSystem\\BookSystem.Data\\BookSystem.Data.csproj",
         "packagesPath": "C:\\Users\\Md Sumon Mia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Md Sumon Mia\\source\\repos\\BookSystem\\BookSystem.Data\\obj\\",
+        "outputPath": "F:\\Exam\\Asp.net-Web-Development-code-\\BookSystem\\BookSystem.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Md Sumon Mia\\AppData\\Roaming\\NuGet\\NuGet.Config",
