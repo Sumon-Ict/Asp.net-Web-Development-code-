@@ -1,0 +1,12 @@
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.deps.json
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\bin\Debug\net5.0\ref\BookSystem.Data.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\bin\Debug\net5.0\BookSystem.Data.pdb
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.csprojAssemblyReference.cache
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.AssemblyInfo.cs
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\ref\BookSystem.Data.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Data\obj\Debug\net5.0\BookSystem.Data.pdb

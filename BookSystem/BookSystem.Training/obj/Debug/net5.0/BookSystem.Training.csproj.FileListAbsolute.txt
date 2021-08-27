@@ -1,0 +1,15 @@
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csprojAssemblyReference.cache
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.AssemblyInfoInputs.cache
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.AssemblyInfo.cs
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csproj.CoreCompileInputs.cache
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.deps.json
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\bin\Debug\net5.0\ref\BookSystem.Training.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Training.pdb
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Data.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\bin\Debug\net5.0\BookSystem.Data.pdb
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.csproj.CopyComplete
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\ref\BookSystem.Training.dll
+C:\Users\Md Sumon Mia\source\repos\BookSystem\BookSystem.Training\obj\Debug\net5.0\BookSystem.Training.pdb
