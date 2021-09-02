@@ -1,0 +1,12 @@
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\bin\Debug\net5.0\Worker.Data.deps.json
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\bin\Debug\net5.0\Worker.Data.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\bin\Debug\net5.0\ref\Worker.Data.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\bin\Debug\net5.0\Worker.Data.pdb
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\obj\Debug\net5.0\Worker.Data.csprojAssemblyReference.cache
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\obj\Debug\net5.0\Worker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\obj\Debug\net5.0\Worker.Data.AssemblyInfoInputs.cache
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\obj\Debug\net5.0\Worker.Data.AssemblyInfo.cs
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\obj\Debug\net5.0\Worker.Data.csproj.CoreCompileInputs.cache
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\obj\Debug\net5.0\Worker.Data.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\obj\Debug\net5.0\ref\Worker.Data.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Data\obj\Debug\net5.0\Worker.Data.pdb

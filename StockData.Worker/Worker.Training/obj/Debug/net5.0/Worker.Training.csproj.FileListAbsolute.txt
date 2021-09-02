@@ -1,0 +1,15 @@
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\bin\Debug\net5.0\Worker.Training.deps.json
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\bin\Debug\net5.0\Worker.Training.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\bin\Debug\net5.0\ref\Worker.Training.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\bin\Debug\net5.0\Worker.Training.pdb
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\bin\Debug\net5.0\Worker.Data.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\bin\Debug\net5.0\Worker.Data.pdb
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\Worker.Training.csprojAssemblyReference.cache
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\Worker.Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\Worker.Training.AssemblyInfoInputs.cache
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\Worker.Training.AssemblyInfo.cs
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\Worker.Training.csproj.CoreCompileInputs.cache
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\Worker.Training.csproj.CopyComplete
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\Worker.Training.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\ref\Worker.Training.dll
+C:\Users\Md Sumon Mia\source\repos\StockData.Worker\Worker.Training\obj\Debug\net5.0\Worker.Training.pdb
